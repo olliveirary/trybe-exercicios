@@ -1,0 +1,52 @@
+h1 {
+
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+
+body {
+    font-size: 16px;
+}
+
+ul {
+
+
+    background-color: lightblue;
+}
+
+.estilo1 {
+
+    background-color: brown;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+
+li {
+
+    font-style: italic;
+    line-height: 30px;
+    text-align: initial;
+    text-decoration: rgb(22, 100, 100);
+
+}
+
+ #amarelo {
+
+    background-color: yellow;
+
+}
+ #vermelho {
+
+    background-color: red;
+
+}
+
+ #marrom {
+
+
+    background-color: brown;
+}
